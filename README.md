@@ -1,7 +1,9 @@
 # K2-OS-6 - Bushes
 > Simple operating system called Bushes.
 
-This is a project that is currently being worked on by 4 people:
+## ⚠ WARNING: Silakan gunakan repository ini sebagai referensi. Jangan di-clone dan dikumpulin buat tugas ya :D
+
+This is a project that is ~currently being~ worked on by 4 people:
 * Matthew Kevin Amadeus - 13518035
 * Michelle Theresia - 13518050
 * Chokyi Ozer - 13518107
